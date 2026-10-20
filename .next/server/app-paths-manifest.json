@@ -1,0 +1,11 @@
+{
+  "/_not-found/page": "app/_not-found/page.js",
+  "/page": "app/page.js",
+  "/robots.txt/route": "app/robots.txt/route.js",
+  "/sitemap.xml/route": "app/sitemap.xml/route.js",
+  "/about/page": "app/about/page.js",
+  "/contact/page": "app/contact/page.js",
+  "/minecraft-hosting/page": "app/minecraft-hosting/page.js",
+  "/pricing/page": "app/pricing/page.js",
+  "/vps-hosting/page": "app/vps-hosting/page.js"
+}

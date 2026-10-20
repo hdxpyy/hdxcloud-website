@@ -1,0 +1,65 @@
+{
+  "pages": {
+    "/_not-found/page": [
+      "static/chunks/webpack-8c2a7396920e3c54.js",
+      "static/chunks/fd9d1056-d1cbe45dbb83a69a.js",
+      "static/chunks/117-ca91e730c7469e3d.js",
+      "static/chunks/main-app-b3d459cd46abecde.js",
+      "static/chunks/app/_not-found/page-5e51dac83aa685fe.js"
+    ],
+    "/layout": [
+      "static/chunks/webpack-8c2a7396920e3c54.js",
+      "static/chunks/fd9d1056-d1cbe45dbb83a69a.js",
+      "static/chunks/117-ca91e730c7469e3d.js",
+      "static/chunks/main-app-b3d459cd46abecde.js",
+      "static/css/d0cf4d3e22975a09.css",
+      "static/chunks/663-6c93fece05588208.js",
+      "static/chunks/541-f46eb7887cc8c03a.js",
+      "static/chunks/app/layout-5a5af27751859f5b.js"
+    ],
+    "/page": [
+      "static/chunks/webpack-8c2a7396920e3c54.js",
+      "static/chunks/fd9d1056-d1cbe45dbb83a69a.js",
+      "static/chunks/117-ca91e730c7469e3d.js",
+      "static/chunks/main-app-b3d459cd46abecde.js",
+      "static/chunks/663-6c93fece05588208.js",
+      "static/chunks/app/page-5602ed561353ce7e.js"
+    ],
+    "/about/page": [
+      "static/chunks/webpack-8c2a7396920e3c54.js",
+      "static/chunks/fd9d1056-d1cbe45dbb83a69a.js",
+      "static/chunks/117-ca91e730c7469e3d.js",
+      "static/chunks/main-app-b3d459cd46abecde.js",
+      "static/chunks/app/about/page-4dda44a02eee1230.js"
+    ],
+    "/contact/page": [
+      "static/chunks/webpack-8c2a7396920e3c54.js",
+      "static/chunks/fd9d1056-d1cbe45dbb83a69a.js",
+      "static/chunks/117-ca91e730c7469e3d.js",
+      "static/chunks/main-app-b3d459cd46abecde.js",
+      "static/chunks/app/contact/page-c4a63c46fea21b82.js"
+    ],
+    "/minecraft-hosting/page": [
+      "static/chunks/webpack-8c2a7396920e3c54.js",
+      "static/chunks/fd9d1056-d1cbe45dbb83a69a.js",
+      "static/chunks/117-ca91e730c7469e3d.js",
+      "static/chunks/main-app-b3d459cd46abecde.js",
+      "static/chunks/663-6c93fece05588208.js",
+      "static/chunks/app/minecraft-hosting/page-4274a7ddcf5be810.js"
+    ],
+    "/pricing/page": [
+      "static/chunks/webpack-8c2a7396920e3c54.js",
+      "static/chunks/fd9d1056-d1cbe45dbb83a69a.js",
+      "static/chunks/117-ca91e730c7469e3d.js",
+      "static/chunks/main-app-b3d459cd46abecde.js",
+      "static/chunks/app/pricing/page-e4192d740bbdab3b.js"
+    ],
+    "/vps-hosting/page": [
+      "static/chunks/webpack-8c2a7396920e3c54.js",
+      "static/chunks/fd9d1056-d1cbe45dbb83a69a.js",
+      "static/chunks/117-ca91e730c7469e3d.js",
+      "static/chunks/main-app-b3d459cd46abecde.js",
+      "static/chunks/app/vps-hosting/page-b8468b056991ae99.js"
+    ]
+  }
+}

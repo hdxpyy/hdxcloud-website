@@ -1,0 +1,29 @@
+# HDXCLOUD
+
+HDXCLOUD is a hosting brand offering Minecraft hosting and VPS / VM hosting.
+
+Official website: https://www.hdxclouds.com
+Client billing panel: https://billing.hdxcloud.xyz
+VPS / VM panel: https://vms.hdxclouds.com
+Documentation and policies: https://docs.hdxclouds.info
+
+## Minecraft Hosting
+
+Three Minecraft hosting tiers, each priced per GB of RAM per month:
+
+1. Cheap Plan — ₹10 per GB of RAM per month. CPU: Intel Xeon E5-2620 v4.
+2. Budget Plan — ₹20 per GB of RAM per month. CPU: Intel Xeon 6.
+3. Performance Plan — ₹30 per GB of RAM per month. CPU: AMD EPYC 9755 or Intel Core Ultra 9, depending on the hosting node assigned.
+
+All plans include SSD storage. Online RAM selections support 1 GB to 32 GB.
+
+Requests above 32 GB of RAM are handled through a Discord support ticket once the official invite is published.
+
+## Public Pages
+
+- https://www.hdxclouds.com/ — Homepage
+- https://www.hdxclouds.com/minecraft-hosting — Minecraft hosting details
+- https://www.hdxclouds.com/pricing — Pricing and RAM calculator
+- https://www.hdxclouds.com/vps-hosting — VPS / VM overview
+- https://www.hdxclouds.com/about — About HDXCLOUD
+- https://www.hdxclouds.com/contact — Contact and support routes
